@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://zhueightone.github.io/2017/09/01/hello-world/</loc>
+    <lastmod>2017-09-01T09:53:26.665Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-09-01T09:53:26.665Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://zhueightone.github.io/2017/08/28/test/</loc>
+    <lastmod>2017-09-01T09:53:26.665Z</lastmod>
+    <data>
+        <display>
+        <title>test</title>
+        <pubTime>2017-08-28T20:30:37.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
